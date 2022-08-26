@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fc3.admin.catalogo.infrastructure.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-26T02:21:27" hostname="DELL-FG8TWF3" time="0.018">
+  <properties/>
+  <testcase name="testMain()" classname="com.fc3.admin.catalogo.infrastructure.MainTest" time="0.018"/>
+  <system-out><![CDATA[Hello world!
+com.fc3.admin.catalogo.domain.Category@43f02ef2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

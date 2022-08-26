@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fc3.admin.catalogo.application.UseCaseTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-26T02:16:51" hostname="DELL-FG8TWF3" time="0.017">
+  <properties/>
+  <testcase name="testUseCaseTest()" classname="com.fc3.admin.catalogo.application.UseCaseTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
